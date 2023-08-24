@@ -1,0 +1,4 @@
+Nama:Lukas
+NPM:20312019
+Prodi: S1 Informatika
+Mata kuliah : Proyek Perangkat Lunak
